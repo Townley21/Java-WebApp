@@ -1,0 +1,22 @@
+body{
+	background-color:Dodgerblue;
+	
+}
+
+h1 {
+	color:white;
+}
+
+h2 {
+	color:white;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+h3 {
+	color:white;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: normal;
+}
